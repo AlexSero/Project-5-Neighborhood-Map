@@ -1,0 +1,46 @@
+@import "bulma.css";
+
+#map {
+    height: 400px;
+    width: 100%;
+}
+
+.p-2 {
+    padding: 2rem;
+}
+
+.pl-2 {
+    padding-left: 2rem;
+}
+
+.w-100 {
+    width: 100%;
+}
+
+.is-text-centered {
+    text-align: center;
+}
+
+.title {
+    font-size: 1.5rem;
+}
+
+.container {
+    max-width: 100%;
+    width: initial;
+}
+
+.menu-list a {
+    display: inline-flex;
+}
+
+.delete {
+    vertical-align: middle;
+}
+
+.truncate {
+    width: 25rem;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
