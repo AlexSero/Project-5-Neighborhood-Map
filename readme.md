@@ -14,5 +14,7 @@ You also need to have the developer dependencies necessary to build sqlite with 
 Follow instruction [at this website](https://github.com/nodejs/node-gyp#installation), with specific operating system.
 
 Download this application or clone it by clicking the `clone or download` button. Then `cd` into the directory that contains the downloaded folder.
+
 Run `npm install --production`.
+
 Once the install and postinstall processes have ran, type `npm start.`
